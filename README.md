@@ -1,3 +1,6 @@
+SCALABLE FAIR CLUSTERING
+========================
+
 This is an implementation of the fair k-median clustering algorithm from the paper:
 "Scalable Fair Clustering", by Arturs Backurs, Piotr Indyk, Krzysztof Onak, Baruch Schieber, Ali Vakilian, Tal Wagner (ICML 2019), available at https://arxiv.org/abs/1902.03519
 
