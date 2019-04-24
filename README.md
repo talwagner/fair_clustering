@@ -2,10 +2,24 @@ SCALABLE FAIR CLUSTERING
 ========================
 
 This is an implementation (written by the authors) of the fair k-median clustering algorithm from the paper:
-"Scalable Fair Clustering", by Arturs Backurs, Piotr Indyk, Krzysztof Onak, Baruch Schieber, Ali Vakilian, Tal Wagner (ICML 2019), available at https://arxiv.org/abs/1902.03519.
+
+"Scalable Fair Clustering"
+
+by Arturs Backurs, Piotr Indyk, Krzysztof Onak, Baruch Schieber, Ali Vakilian, Tal Wagner
+
+ICML 2019
+
+available at https://arxiv.org/abs/1902.03519.
 
 For the definition of fair clustering, please refer to the paper:
-"Fair Clustering Through Fairlets", by Flavio Chierichetti, Ravi Kumar, Silvio Lattanzi, Sergei Vassilvitskii  (NIPS 2017), available at https://arxiv.org/abs/1902.03519.
+
+"Fair Clustering Through Fairlets"
+
+by Flavio Chierichetti, Ravi Kumar, Silvio Lattanzi, Sergei Vassilvitskii
+
+NIPS 2017
+
+available at https://arxiv.org/abs/1902.03519.
 
 The main file is fairtree.py. Usage:
 
