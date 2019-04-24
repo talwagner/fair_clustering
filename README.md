@@ -7,9 +7,7 @@ This is an implementation (written by the authors) of the fair k-median clusteri
 
 by Arturs Backurs, Piotr Indyk, Krzysztof Onak, Baruch Schieber, Ali Vakilian, Tal Wagner
 
-ICML 2019
-
-available at https://arxiv.org/abs/1902.03519.
+Published in ICML 2019, available at https://arxiv.org/abs/1902.03519.
 
 For the definition of fair clustering, please refer to the paper:
 
@@ -17,9 +15,7 @@ For the definition of fair clustering, please refer to the paper:
 
 by Flavio Chierichetti, Ravi Kumar, Silvio Lattanzi, Sergei Vassilvitskii
 
-NIPS 2017
-
-available at https://arxiv.org/abs/1902.03519.
+Published in NIPS 2017, available at https://arxiv.org/abs/1902.03519.
 
 The main file is fairtree.py. Usage:
 
