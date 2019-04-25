@@ -15,7 +15,7 @@ For the definition of fair clustering, please refer to the paper:
 
 by Flavio Chierichetti, Ravi Kumar, Silvio Lattanzi, Sergei Vassilvitskii
 
-Published in NIPS 2017, available at https://arxiv.org/abs/1902.03519.
+Published in NIPS 2017, available at https://arxiv.org/abs/1802.05733.
 
 The main file is fairtree.py. Usage:
 
