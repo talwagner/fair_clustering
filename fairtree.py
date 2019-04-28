@@ -370,13 +370,9 @@ print("Doing fair clustering...")
 cost = tree_fairlet_decomposition(p, q, root, dataset, colors)
 fairlet_e = time.time()
  
-#print("Fairlet decomposition cost:", cost)
+print("Fairlet decomposition cost:", cost)
  
 print("Doing k-median clustering on fairlet centers...")
-###centroids = kmedian_swap(k, FAIRLET_CENTERS, dataset)
- 
- 
- 
 fairlet_center_idx = [dataset[index] for index in FAIRLET_CENTERS]
 fairlet_center_pt = np.array([np.array(xi) for xi in fairlet_center_idx])
  
