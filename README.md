@@ -32,3 +32,6 @@ N (optional): Integer sample size. If given, the code would run on a random samp
 The main part of the code computes a fairlet decomposition of the dataset (as defined in Chierichetti et al). Then a usual (non-fair) k-median algorithm is invoked on the fairlet centers. The resulting clustering is then extended to the whole dataset by assigning each data point to the cluster that contains its fairlet center. The yields the final fair clustering.
 
 For usual k-median, the code invokes MATLAB. This requires Python 3.6 or older. Alternatively, the MATLAB invocation can be replaced by any other k-median implementation.
+
+ACKNOWLEDGMENT:
+This work was supported in part by MIT-IBM Watson AI Lab collaboration.
